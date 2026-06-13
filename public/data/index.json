@@ -1,0 +1,126 @@
+[
+  {
+    "id": "2026-06-13-hackernews-show-hn-paca-lightweight-jira-alternative-for-human-ai-colla",
+    "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+    "summary": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it",
+    "source": "hackernews",
+    "sourceName": "Hacker News",
+    "url": "https://github.com/Paca-AI/paca",
+    "date": "2026-06-13",
+    "category": "行业动态",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-13-hackernews-the-fable-5-jailbreak-shows-why-ai-guardrails-alone-are-not-",
+    "title": "The Fable 5 Jailbreak Shows Why AI Guardrails Alone Are Not Enough",
+    "summary": "Article URL: https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails\nComments URL: https://news.ycombinator.com/item?id=48515344\nPoints: 3\n# Comments: 0",
+    "source": "hackernews",
+    "sourceName": "Hacker News",
+    "url": "https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails",
+    "date": "2026-06-13",
+    "category": "行业动态",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-13-hackernews-shepherd-s-dog-a-game-by-the-most-dangerous-ai-model",
+    "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+    "summary": "Article URL: https://koenvangilst.nl/lab/claude-fable-shepherds-dog\nComments URL: https://news.ycombinator.com/item?id=48513728\nPoints: 102\n# Comments: 92",
+    "source": "hackernews",
+    "sourceName": "Hacker News",
+    "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+    "date": "2026-06-13",
+    "category": "大模型",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-13-hackernews-open-source-ai-must-win",
+    "title": "Open source AI must win",
+    "summary": "Article URL: https://opensourceaimustwin.com/?share=v2\nComments URL: https://news.ycombinator.com/item?id=48511908\nPoints: 1096\n# Comments: 343",
+    "source": "hackernews",
+    "sourceName": "Hacker News",
+    "url": "https://opensourceaimustwin.com/?share=v2",
+    "date": "2026-06-13",
+    "category": "开源工具",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-13-techcrunch-ai-andrew-yang-thinks-the-next-big-startup-opportunity-is-lower",
+    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+    "source": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "date": "2026-06-13",
+    "category": "行业动态",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-13-techcrunch-ai-anthropic-s-safety-warnings-may-have-just-backfired-the-gove",
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+    "source": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "date": "2026-06-13",
+    "category": "行业动态",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-13-theverge-ai-apple-s-new-ai-photo-editing-tools-mostly-work-for-better-an",
+    "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+    "summary": "iPhone owners are getting real, native AI photo editing for the first time.\t\n\nThe most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready.\nAs far as AI photo editing goes, the new features in iOS 27 are pretty tame compared ",
+    "source": "theverge-ai",
+    "sourceName": "The Verge AI",
+    "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+    "date": "2026-06-13",
+    "category": "AI应用",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-13-theverge-ai-the-future-of-hollywood-isn-t-feeding-prompts-into-vanilla-g",
+    "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+    "summary": "Concept art from Dear Upstairs Neighbors that used to train custom builds of Google’s Veo and Imagen models. | Image: Google DeepMind\t\n\nFor all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with t",
+    "source": "theverge-ai",
+    "sourceName": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+    "date": "2026-06-13",
+    "category": "行业动态",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-12-nvidia-h200",
+    "title": "英伟达H200芯片量产，AI训练成本有望降低50%",
+    "title_cn": "英伟达H200芯片量产，AI训练成本有望降低50%",
+    "summary": "英伟达宣布H200 GPU进入量产阶段，相比H100内存带宽提升1.4倍，FP8算力提升2倍，预计将使大模型训练成本降低约50%。",
+    "source": "jiqizhixin",
+    "sourceName": "机器之心",
+    "url": "https://jiqizhixin.com/articles/2026-06-12-nvidia-h200",
+    "date": "2026-06-12",
+    "category": "行业动态",
+    "language": "zh"
+  },
+  {
+    "id": "2026-06-12-robot-foundation-model",
+    "title": "具身智能新突破：通用机器人基础模型首次实现跨形态泛化",
+    "title_cn": "具身智能新突破：通用机器人基础模型首次实现跨形态泛化",
+    "summary": "斯坦福和伯克利联合团队发布RoboFoundation模型，首次实现从双足机器人到四足机器人的零样本技能迁移，标志着具身智能通用化的重要里程碑。",
+    "source": "liangziwei",
+    "sourceName": "量子位",
+    "url": "https://www.qbitai.com/2026/06/robo-foundation",
+    "date": "2026-06-12",
+    "category": "研究论文",
+    "language": "zh"
+  },
+  {
+    "id": "2026-06-12-mistral-coding-model",
+    "title": "Mistral Releases Codestral Pro: A 22B Model That Beats GPT-4 on Code Generation",
+    "title_cn": "Mistral发布Codestral Pro：22B模型代码能力超越GPT-4",
+    "summary": "French AI lab Mistral has released Codestral Pro, a 22B parameter model specialized for code generation. Despite its smaller size, it outperforms GPT-4 on HumanEval and SWE-Bench.",
+    "source": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/mistral-codestral-pro",
+    "date": "2026-06-12",
+    "category": "开源工具",
+    "language": "en"
+  }
+]

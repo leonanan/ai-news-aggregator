@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2026-06-12-nvidia-h200",
+    "title": "英伟达H200芯片量产，AI训练成本有望降低50%",
+    "title_cn": "英伟达H200芯片量产，AI训练成本有望降低50%",
+    "summary": "英伟达宣布H200 GPU进入量产阶段，相比H100内存带宽提升1.4倍，FP8算力提升2倍，预计将使大模型训练成本降低约50%。",
+    "source": "jiqizhixin",
+    "sourceName": "机器之心",
+    "url": "https://jiqizhixin.com/articles/2026-06-12-nvidia-h200",
+    "date": "2026-06-12",
+    "category": "行业动态",
+    "language": "zh"
+  },
+  {
+    "id": "2026-06-12-robot-foundation-model",
+    "title": "具身智能新突破：通用机器人基础模型首次实现跨形态泛化",
+    "title_cn": "具身智能新突破：通用机器人基础模型首次实现跨形态泛化",
+    "summary": "斯坦福和伯克利联合团队发布RoboFoundation模型，首次实现从双足机器人到四足机器人的零样本技能迁移，标志着具身智能通用化的重要里程碑。",
+    "source": "liangziwei",
+    "sourceName": "量子位",
+    "url": "https://www.qbitai.com/2026/06/robo-foundation",
+    "date": "2026-06-12",
+    "category": "研究论文",
+    "language": "zh"
+  },
+  {
+    "id": "2026-06-12-mistral-coding-model",
+    "title": "Mistral Releases Codestral Pro: A 22B Model That Beats GPT-4 on Code Generation",
+    "title_cn": "Mistral发布Codestral Pro：22B模型代码能力超越GPT-4",
+    "summary": "French AI lab Mistral has released Codestral Pro, a 22B parameter model specialized for code generation. Despite its smaller size, it outperforms GPT-4 on HumanEval and SWE-Bench.",
+    "source": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/mistral-codestral-pro",
+    "date": "2026-06-12",
+    "category": "开源工具",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-12-google-ai-studio-upgrade",
+    "title": "Google AI Studio全面升级：免费开放Gemini 3 Pro API",
+    "title_cn": "Google AI Studio全面升级：免费开放Gemini 3 Pro API",
+    "summary": "Google AI Studio推出重大更新，Gemini 3 Pro API免费向开发者开放，支持多模态输入输出，速率限制大幅提升。",
+    "source": "36kr-ai",
+    "sourceName": "36氪",
+    "url": "https://36kr.com/p/20260612-gemini-ai-studio",
+    "date": "2026-06-12",
+    "category": "AI应用",
+    "language": "zh"
+  }
+]
