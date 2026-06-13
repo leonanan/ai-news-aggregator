@@ -5,8 +5,7 @@ import type { SourceDef } from "./sources";
 const parser = new RssParser({
   timeout: 15000,
   headers: {
-    "User-Agent":
-      "AI-News-Aggregator/1.0 (news bot; contact@example.com)",
+    "User-Agent": "AI-News-Aggregator/1.0 (news bot; contact@example.com)",
   },
 });
 
@@ -86,15 +85,13 @@ export async function fetchSource(source: SourceDef): Promise<NewsItem[]> {
     }
 
     for (const entry of feed.items) {
-      // Skip items without a title or link
       if (!entry.title || !entry.link) continue;
 
       const title = entry.title.trim();
       const link = entry.link.trim();
-      let summary = (entry.contentSnippet || entry.content || "")
-        .trim();
+      let summary = (entry.contentSnippet || entry.content || "").trim();
 
-      // Clean HackerNews-style summaries (remove Article/Comments URL lines)
+      // Clean HackerNews-style summaries
       summary = summary
         .replace(/^Article URL:\s*https?:\/\/\S+/gm, "")
         .replace(/^Comments URL:\s*https?:\/\/\S+/gm, "")
@@ -104,20 +101,16 @@ export async function fetchSource(source: SourceDef): Promise<NewsItem[]> {
         .trim()
         .slice(0, 300);
 
-      // Try to get date from feed
       let date = today;
       if (entry.pubDate) {
         try {
           date = new Date(entry.pubDate).toISOString().slice(0, 10);
-        } catch {
-          // keep today
-        }
+        } catch { /* keep today */ }
       } else if (entry.isoDate) {
         date = entry.isoDate.slice(0, 10);
       }
 
       const category = classifyCategory(title, summary, source.defaultCategory);
-
       const normalizedId = `${date}-${source.id}-${slug(title)}`;
 
       const newsItem: NewsItem = {
@@ -132,8 +125,6 @@ export async function fetchSource(source: SourceDef): Promise<NewsItem[]> {
         language: source.language,
       };
 
-      // For English items, leave title_cn empty (can be enriched later)
-      // For Chinese items, title_cn = title
       if (source.language === "zh") {
         newsItem.title_cn = title;
       }

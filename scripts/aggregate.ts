@@ -61,8 +61,8 @@ async function main() {
   console.log(`  Today items: ${todayItems.length}`);
   console.log(`  Total enriched: ${enriched.length}\n`);
 
-  // Step 4: Write files
-  console.log(`[4/4] Writing files...`);
+  // Step 5: Write files
+  console.log(`[5/5] Writing files...`);
 
   const dataDir = join(process.cwd(), "public", "data");
   if (!existsSync(dataDir)) {
