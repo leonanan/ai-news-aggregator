@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2026-06-14-techcrunch-ai-as-anthropic-suspends-access-to-new-models-india-debates-its",
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+    "source": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "date": "2026-06-14",
+    "category": "行业动态",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-14-techcrunch-ai-meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing-",
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+    "source": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "date": "2026-06-14",
+    "category": "行业动态",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-14-reddit-ml-the-verifier-tax-horizon-dependent-safety-success-tradeoffs-",
+    "title": "The Verifier Tax: Horizon-Dependent Safety–Success Tradeoffs in Tool-Using LLM Agents [R]",
+    "summary": "We recently presented a paper at ACM CAIS 2026 on safety evaluation for tool-using LLM agents.\n The core issue is that task completion alone can be misleading: an agent may complete a task while violating a safety or policy constraint. We separate outcomes into safe success, unsafe success, and fail",
+    "source": "reddit-ml",
+    "sourceName": "r/MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u58mkq/the_verifier_tax_horizondependent_safetysuccess/",
+    "date": "2026-06-14",
+    "category": "大模型",
+    "language": "en"
+  },
+  {
+    "id": "2026-06-14-reddit-ml-confused-where-to-start-d",
+    "title": "Confused, where to start [D]",
+    "summary": "Hello community, I am a backend + big data dev. I want to learn about the llms that generate voices. I also read some articles but almost everyone of them starts from regression. There are so much resources available right now that I am now confused where to begin with. \n    submitted by    /u/paklu",
+    "source": "reddit-ml",
+    "sourceName": "r/MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u5cimu/confused_where_to_start_d/",
+    "date": "2026-06-14",
+    "category": "大模型",
+    "language": "en"
+  }
+]
