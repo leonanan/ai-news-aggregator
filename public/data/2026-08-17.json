@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2026-08-17-reddit-ml-r-sinekan-kolmogorov-arnold-networks-using-sinusoidal-activa",
+    "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
+    "summary": "I couldn't sleep because I couldn't stop wondering if anyone had tried using sinusoids instead of B-splines as activation in a KAN, and fortunately/unfortunately that was already the case. I could not find it posted here, so I though I would share in the hope of some insightful discussion.\n Arxiv: h",
+    "source": "reddit-ml",
+    "sourceName": "r/MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vqdode/r_sinekan_kolmogorovarnold_networks_using/",
+    "date": "2026-08-17",
+    "category": "研究论文",
+    "language": "en"
+  }
+]
