@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026-08-21-hackernews-copyright-does-not-protect-ai-generated-content-in-eu",
+    "title": "Copyright does not protect AI-generated content in EU",
+    "source": "hackernews",
+    "sourceName": "Hacker News",
+    "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+    "date": "2026-08-21",
+    "category": "行业动态",
+    "language": "en"
+  },
+  {
+    "id": "2026-08-21-techcrunch-ai-ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-t",
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+    "source": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "date": "2026-08-21",
+    "category": "开源工具",
+    "language": "en"
+  },
+  {
     "id": "2026-08-17-reddit-ml-r-sinekan-kolmogorov-arnold-networks-using-sinusoidal-activa",
     "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
     "summary": "I couldn't sleep because I couldn't stop wondering if anyone had tried using sinusoids instead of B-splines as activation in a KAN, and fortunately/unfortunately that was already the case. I could not find it posted here, so I though I would share in the hope of some insightful discussion.\n Arxiv: h",
