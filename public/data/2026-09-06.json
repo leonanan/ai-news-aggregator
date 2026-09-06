@@ -1,0 +1,55 @@
+[
+  {
+    "id": "2026-09-06-liangziwei-b站首届ai创造公开赛收官-超八成参赛者为一人团队",
+    "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+    "source": "liangziwei",
+    "sourceName": "量子位",
+    "url": "https://www.qbitai.com/2026/09/484890.html",
+    "date": "2026-09-06",
+    "category": "行业动态",
+    "language": "zh",
+    "title_cn": "B站首届AI创造公开赛收官，超八成参赛者为一人团队"
+  },
+  {
+    "id": "2026-09-06-hackernews-ai-tools-and-transformation",
+    "title": "AI, Tools and Transformation",
+    "source": "hackernews",
+    "sourceName": "Hacker News",
+    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "date": "2026-09-06",
+    "category": "开源工具",
+    "language": "en"
+  },
+  {
+    "id": "2026-09-06-hackernews-gpt-6-astra-on-robot-arms",
+    "title": "GPT-6 Astra on robot arms",
+    "source": "hackernews",
+    "sourceName": "Hacker News",
+    "url": "https://openai.robocurve.org/gpt-6-astra/",
+    "date": "2026-09-06",
+    "category": "大模型",
+    "language": "en"
+  },
+  {
+    "id": "2026-09-06-reddit-ml-aistats-2027-questions-d",
+    "title": "AIStats 2027 Questions [D]",
+    "summary": "Hi All,\n Was reading AIStats' website and it seems like abstract submission is due in 3 weeks.\n Does anyone know where to find the LaTex template for 2027? It seems like very little information is available on their website.\n Another question, is a Quant Finance paper a better fit for AIStats or ICL",
+    "source": "reddit-ml",
+    "sourceName": "r/MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
+    "date": "2026-09-06",
+    "category": "研究论文",
+    "language": "en"
+  },
+  {
+    "id": "2026-09-06-reddit-ml-search-agent-beats-gpt-6-astra-on-benchmarks-just-days-after",
+    "title": "Search agent beats GPT-6 Astra on benchmarks, just days after release [N]",
+    "summary": "submitted by    /u/Neither_You_5673  \n [link]   [comments]",
+    "source": "reddit-ml",
+    "sourceName": "r/MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8gr2i/search_agent_beats_gpt6_astra_on_benchmarks_just/",
+    "date": "2026-09-06",
+    "category": "大模型",
+    "language": "en"
+  }
+]
