@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026-10-03-liangziwei-openai安全团队持续地震-负责人离职-三名员工因泄密被开",
+    "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+    "summary": "又咋啦。。。",
+    "source": "liangziwei",
+    "sourceName": "量子位",
+    "url": "https://www.qbitai.com/2026/10/501368.html",
+    "date": "2026-10-03",
+    "category": "政策伦理",
+    "language": "zh",
+    "title_cn": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开"
+  },
+  {
+    "id": "2026-10-03-liangziwei-jev估值100亿美元-创始人diogo-almeida回答一切",
+    "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+    "source": "liangziwei",
+    "sourceName": "量子位",
+    "url": "https://www.qbitai.com/2026/10/500148.html",
+    "date": "2026-10-03",
+    "category": "行业动态",
+    "language": "zh",
+    "title_cn": "Jev估值100亿美元！创始人Diogo Almeida回答一切"
+  },
+  {
+    "id": "2026-10-03-techcrunch-ai-meta-wants-your-next-gadget-to-be-muse-infused",
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "source": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "date": "2026-10-03",
+    "category": "行业动态",
+    "language": "en"
+  },
+  {
     "id": "2026-10-02-arxiv-cs-ai-heavy-tailed-memory-traces-in-long-horizon-language-agents",
     "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
     "summary": "arXiv:2610.00010v1 Announce Type: new \nAbstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite cont",
