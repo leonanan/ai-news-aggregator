@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-10-14-leiphone-ai-宾大茅佳源-从单次演示到-83-真机泛化-破解具身智能数据困局-iros-2026",
+    "title": "宾大茅佳源：从单次演示到 83% 真机泛化，破解具身智能数据困局｜IROS 2026",
+    "summary": "剖析视觉与动作脱节，引入 TR 指标与自适应引导，重构具身泛化机制。  \n\n    作者丨张璐\n\n    编辑丨岑峰\n                                                                                                       \n\n在机械臂的实机测试中，不少团队都遇到过类似的困扰：为了让机器人学会抓取某个马克杯，往往需要人类抓着机械臂录入上百条示范轨迹。然而只要把杯子换成未见过的款式，或者稍微改变物体的摆放位置，策略的成功率就会急剧下降。\n这种靠海量遥操作数据硬堆技能的方式，很难让机器人真正具备应对",
+    "source": "leiphone-ai",
+    "sourceName": "雷锋网 AI",
+    "url": "https://www.leiphone.com/category/private/x6DMLw9up0rlycKH.html",
+    "date": "2026-10-14",
+    "category": "AI应用",
+    "language": "zh",
+    "title_cn": "宾大茅佳源：从单次演示到 83% 真机泛化，破解具身智能数据困局｜IROS 2026"
+  },
+  {
+    "id": "2026-10-14-leiphone-ai-腾讯workbuddy企业版上线-可观测中心-破解规模化用agent四大痛点",
+    "title": "腾讯WorkBuddy企业版上线「可观测中心」破解规模化用Agent四大痛点",
+    "summary": "打通企业上下文或只是Agent智能体走进企业办公场景的开始，“成本效率是否可管控、安全合规是否可追溯，应用效果是否可优化”企业经营管理最关心的核心问题。\n10月13日，腾讯 WorkBuddy 企业版管理后台上线“可观测中心”，作为企业级 Agent 智能体运行管理的「仪表盘」——从统计观测到轨迹分析，让企业级 Agent 全链路「看得全、看得清、看得透」。\n即日起，“可观测中心”开启公测。企业管理员可以在管理后台中（https://www.workbuddy.cn/admin/overview ），对企业内 Agent 智能体的使用情况进行全链路数据采集、存储与分析，为智能体的效率、质量与成",
+    "source": "leiphone-ai",
+    "sourceName": "雷锋网 AI",
+    "url": "https://www.leiphone.com/category/industrynews/f1Qk7Zv1CTpAQhYX.html",
+    "date": "2026-10-14",
+    "category": "AI应用",
+    "language": "zh",
+    "title_cn": "腾讯WorkBuddy企业版上线「可观测中心」破解规模化用Agent四大痛点"
+  },
+  {
+    "id": "2026-10-14-hackernews-i-built-a-tool-to-track-what-ai-leaders-say-and-how-their-vi",
+    "title": "I built a tool to track what AI leaders say and how their views change on video",
+    "source": "hackernews",
+    "sourceName": "Hacker News",
+    "url": "https://blumify.io/people",
+    "date": "2026-10-14",
+    "category": "开源工具",
+    "language": "en"
+  },
+  {
+    "id": "2026-10-14-reddit-ml-weird-pattern-in-the-iclr-papers-i-was-assigned-to-review-d",
+    "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
+    "summary": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to read. Unfortunately, I imagine this is common among \"top\" conference submissions now.\n The reason I am ",
+    "source": "reddit-ml",
+    "sourceName": "r/MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
+    "date": "2026-10-14",
+    "category": "大模型",
+    "language": "en"
+  },
+  {
+    "id": "2026-10-14-reddit-ml-phd-students-how-ya-feeling-d",
+    "title": "PhD students, how ya feeling? [D]",
+    "summary": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (still seeking publication), but it's hard to resist just vibing the third from start to finish with ",
+    "source": "reddit-ml",
+    "sourceName": "r/MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
+    "date": "2026-10-14",
+    "category": "大模型",
+    "language": "en"
+  },
+  {
     "id": "2026-10-13-leiphone-ai-千问确认将推出-千问go-已开放体验申请",
     "title": "千问确认将推出「千问Go!」，已开放体验申请",
     "summary": "10月13日，千问官方公众号发布消息，Personal Agent「千问Go!」的体验申请页面已在千问APP上线。用户可通过APP内指定入口提交申请，千问将逐步为更多用户开放体验资格。\n\n \n官方公告显示，让每个人拥有自己专属的AI助理，是千问一直以来的目标，此前，依托阿里生态与开放平台，千问已具备购物、出行、物流等领数十领域的个人办事能力。\n \n千问推出Personal Agent「千问Go!」，内嵌于千问APP，拥有更强大的办事能力，可处理更多类型和更多领域的个人事务。\n \n记者体验后发现，用户可以通过「千问Go!」完成航班延误理赔、场馆及演出预约、餐厅筛选预订、商品比价下单以及求职投递等",
@@ -56176,51 +56232,6 @@
     "url": "https://arxiv.org/abs/2609.17327",
     "date": "2026-09-17",
     "category": "研究论文",
-    "language": "en"
-  },
-  {
-    "id": "2026-09-13-liangziwei-openai年内不上市了-奥特曼支持对手dario呼吁-ai该踩刹车了",
-    "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-    "summary": "RSI太危险，得管！",
-    "source": "liangziwei",
-    "sourceName": "量子位",
-    "url": "https://www.qbitai.com/2026/09/488380.html",
-    "date": "2026-09-13",
-    "category": "行业动态",
-    "language": "zh",
-    "title_cn": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了"
-  },
-  {
-    "id": "2026-09-13-leiphone-ai-2026服贸会期间-七国政要议员体验萝卜快跑-取经-中国绿色出行新质生产力",
-    "title": "2026服贸会期间 七国政要议员体验萝卜快跑 “取经”中国绿色出行新质生产力",
-    "summary": "“我真的非常喜欢！车辆行驶很平稳，像一位经验丰富的司机。希望能尽快引入到我们的国家，并在世界更多国家落地。”9月12日，来华参加2026服贸会相关活动的巴基斯坦总理气候变化与环境协调事务协调员Romina Khurshid Alam在体验完萝卜快跑后表示。当天，CVF-V20（气候脆弱国家论坛-脆弱二十国集团）政要团组到访北京Apollo Park，近距离了解中国无人驾驶技术在真实交通场景中的应用，并围绕绿色低碳出行、智慧交通、可持续发展等话题展开交流，百度集团副总裁、智能驾驶事业群组总裁王云鹏等陪同。\n\n作为中国扩大高水平对外开放、推动全球服务贸易合作的重要平台，2026年服贸会不仅汇聚全球",
-    "source": "leiphone-ai",
-    "sourceName": "雷锋网 AI",
-    "url": "https://www.leiphone.com/category/industrynews/Xp2MImq51mcwHJlL.html",
-    "date": "2026-09-13",
-    "category": "AI应用",
-    "language": "zh",
-    "title_cn": "2026服贸会期间 七国政要议员体验萝卜快跑 “取经”中国绿色出行新质生产力"
-  },
-  {
-    "id": "2026-09-13-hackernews-everyone-should-slow-down-ai-development-except-for-me",
-    "title": "Everyone should slow down AI development except for me",
-    "source": "hackernews",
-    "sourceName": "Hacker News",
-    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-    "date": "2026-09-13",
-    "category": "行业动态",
-    "language": "en"
-  },
-  {
-    "id": "2026-09-13-reddit-ml-getting-mac-air-m2-m3-m4-is-it-good-d",
-    "title": "Getting Mac Air m2/m3/m4 is it good [D]",
-    "summary": "So want to switch to macbook after running epochs on my run down vivobook which still works pretty well thanks to its rtx 3050. Now my budget us nearly 80,000-1lac rupees(800-1000$) and buying it second hand is also an option. I could have asked this in any apple Reddit pages but most of my work inc",
-    "source": "reddit-ml",
-    "sourceName": "r/MachineLearning",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1wewuw5/getting_mac_air_m2m3m4_is_it_good_d/",
-    "date": "2026-09-13",
-    "category": "AI应用",
     "language": "en"
   }
 ]
